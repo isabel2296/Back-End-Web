@@ -1,6 +1,5 @@
 # Proj5
 # Isabel Silva
-# Loai Alfarran
 # # aws access key id = prj5
 # # access key = 1234
 # # us-west-2
