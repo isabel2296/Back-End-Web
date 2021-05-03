@@ -1,6 +1,5 @@
 # Proj5
 # Isabel Silva
-# Loai Alfarran
 
 import table as t
 from table import *
