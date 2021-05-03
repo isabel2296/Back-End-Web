@@ -1,5 +1,4 @@
-# Isabel Silva
-# loai Alfarran
+
 # USERS proj2
 
 import sys
